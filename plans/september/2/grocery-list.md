@@ -17,7 +17,6 @@
 - [x] Fresh cilantro, 3 bunches (extra for gallo pinto) - $6.00
 - [x] Fresh ginger root, 1 piece - $2.00
 - [x] Garlic heads, 2 - $2.00
-- [x] Fresh tilapia fillets, 1.5 lbs - $12.00
 - [x] Medium red onion, 1 - $1.50
 - [x] Yellow onion, 3 medium (for gallo pinto) - $3.00
 - [x] Jalapeño pepper, 1 - $0.50
@@ -44,7 +43,7 @@
 
 #### Meat & Seafood
 - [ ] Boneless, skinless chicken breasts, 2 lbs - $12.00
-- [ ] Fresh tilapia fillets, 1.5 lbs (skin removed) - $12.00
+- [x] Fresh tilapia fillets, 1.5 lbs (skin removed) - $12.00
 
 #### Pantry Staples
 - [x] Rice vinegar, small bottle - $3.00
@@ -145,14 +144,14 @@
 
 | Category | Estimated Cost |
 |----------|---------------|
-| Produce | $91 |
+| Produce | $79 |
 | Proteins | $24 |
 | Pantry | $65 |
 | Spices | $14 |
 | Specialty | $22 |
-| **Total** | **$135** |
+| **Total** | **$123** |
 
-**Monthly Running Total:** $380 / $900 target
+**Monthly Running Total:** $368 / $900 target
 
 ## Prep Day Overview
 This is a **Light Prep Day** focusing on fresh preparations including breakfast items. 
