@@ -38,6 +38,8 @@
 - Asian Chicken Salad (6 servings) - Shredded chicken breast with cabbage and sesame dressing **[$15-18]**
 - Ceviche (4 servings) - Fresh tilapia with lime, cilantro, and red onion **[$12-15]**
 - Turkish Shepherd's Salad (6 servings) - Cucumbers, peppers, herbs with pomegranate molasses **[$10-12]**
+- Gallo Pinto (21 servings: 7 fresh + 14 frozen) - Costa Rican rice and beans breakfast **[$20-25]**
+- Rose & Pistachio Overnight Oats (7 servings) - Middle Eastern inspired breakfast **[$12-15]**
 - Fresh Fruit Prep: Stone fruits (peaches, plums), grapes, kiwi **[$12-15]**
 
 ---
@@ -105,5 +107,5 @@
 - **Total Unique Dishes**: 22 different preparations
 - **Protein Focus**: Affordable cuts - chicken thighs/legs, pork shoulder, chuck roast, pork belly
 - **Cultural Cohesion**: 3 complementary cuisines that pair well together
-- **Estimated Monthly Food Cost**: $700-850 (within budget)
+- **Estimated Monthly Food Cost**: $715-865 (within budget)
 - **Cost per serving**: Approximately $2.50-3.50 per person per meal

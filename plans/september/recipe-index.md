@@ -32,6 +32,8 @@ This index provides quick access to all recipes created for the September meal p
 - [Asian Chicken Salad](2/fresh/asian-chicken-salad.md) - East Asian, 6 servings
 - [Ceviche](2/fresh/ceviche.md) - Latin American, 4 servings
 - [Turkish Shepherd's Salad](2/fresh/turkish-shepherds-salad.md) - Mediterranean, 6 servings
+- [Gallo Pinto](2/fresh/gallo-pinto-breakfast.md) - Costa Rican/Nicaraguan, 21 servings (7 fresh + 14 frozen)
+- [Rose & Pistachio Overnight Oats](2/fresh/rose-pistachio-overnight-oats.md) - Middle Eastern inspired, 7 servings (breakfast)
 - [Fresh Fruit Prep](2/fresh/fresh-fruit-prep.md) - Universal, 8-10 servings
 
 ### [Week 2 Prep Day Overview](2/prep-day-overview.md) | [Week 2 Grocery List](2/grocery-list.md)
@@ -115,6 +117,13 @@ This index provides quick access to all recipes created for the September meal p
 - Mexican Rice (Week 1)
 - Coconut Lime Rice (Week 3)
 
+**Breakfast:**
+- Gallo Pinto (Week 2)
+
+### Middle Eastern Inspired
+**Breakfast:**
+- Rose & Pistachio Overnight Oats (Week 2)
+
 ### Universal
 - Roasted Sweet Potatoes (Week 3)
 - Fresh Fruit Prep (All weeks)
@@ -144,9 +153,9 @@ This index provides quick access to all recipes created for the September meal p
 
 ## Quick Reference
 
-### Total Recipes: 29
+### Total Recipes: 31
 - **Frozen Components**: 14 (7 proteins, 4 sides, 3 carbs)
-- **Fresh Components**: 15 (includes weekly fruit preps)
+- **Fresh Components**: 17 (includes weekly fruit preps and breakfast dishes)
 
 ### Prep Days
 - **Heavy Prep Days**: Weeks 1 & 3 (6-8 hours each)
@@ -164,7 +173,7 @@ This index provides quick access to all recipes created for the September meal p
 
 ### Weekly Grocery Lists
 - [Week 1 Grocery List](1/grocery-list.md) - Heavy Prep Day ($245)
-- [Week 2 Grocery List](2/grocery-list.md) - Light Prep Day ($85)
+- [Week 2 Grocery List](2/grocery-list.md) - Light Prep Day ($135)
 - [Week 3 Grocery List](3/grocery-list.md) - Heavy Prep Day ($285)
 - [Week 4 Grocery List](4/grocery-list.md) - Light Prep Day ($125)
 
@@ -172,7 +181,7 @@ This index provides quick access to all recipes created for the September meal p
 - [September Shopping Summary](monthly-shopping-summary.md) - Budget tracking, bulk buying tips, and cost-saving strategies
 
 ### Budget Overview
-- **Total Monthly Budget:** $740
+- **Total Monthly Budget:** $790
 - **Target Range:** $800-1000
-- **Under Budget:** $60-260
+- **Under Budget:** $10-210
 - **Cost per serving:** ~$2-3 average
