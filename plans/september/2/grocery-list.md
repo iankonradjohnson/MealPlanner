@@ -9,30 +9,30 @@
 ### By Store Section
 
 #### Produce
-- [ ] Napa cabbage, 1 large head (2 lbs) - $4.00
-- [ ] Large carrots, 4 - $3.00
-- [ ] Red bell pepper, 4 (1 for salad, 3 for gallo pinto) - $8.00
-- [ ] Snow peas, 1 cup - $3.00
-- [ ] Green onions/scallions, 2 bunches - $3.00
-- [ ] Fresh cilantro, 3 bunches (extra for gallo pinto) - $6.00
-- [ ] Fresh ginger root, 1 piece - $2.00
-- [ ] Garlic heads, 2 - $2.00
-- [ ] Fresh tilapia fillets, 1.5 lbs - $12.00
-- [ ] Medium red onion, 1 - $1.50
-- [ ] Yellow onion, 3 medium (for gallo pinto) - $3.00
-- [ ] Jalapeño pepper, 1 - $0.50
-- [ ] Large sweet potato, 1 - $2.00
-- [ ] Fresh mint, 2 bunches - $5.00
-- [ ] Large avocados, 3 (for gallo pinto toppings) - $6.00
-- [ ] Fresh corn ears, 4 (or 2 cups frozen) - $4.00
-- [ ] Large peaches, 6 ripe but firm - $6.00
-- [ ] Large plums (mixed varieties), 6 ripe but firm - $6.00
-- [ ] Red or green grapes, 2 lbs seedless - $6.00
-- [ ] Ripe kiwi fruits, 6 - $4.00
-- [ ] Large cucumbers, 4 - $4.00
-- [ ] Large tomatoes, 3 - $4.50
-- [ ] Cherry tomatoes, 1 pint (for gallo pinto topping) - $3.00
-- [ ] Green bell peppers, 2 - $3.00
+- [x] Napa cabbage, 1 large head (2 lbs) - $4.00
+- [x] Large carrots, 4 - $3.00
+- [x] Red bell pepper, 4 (1 for salad, 3 for gallo pinto) - $8.00
+- [x] Snow peas, 1 cup - $3.00
+- [x] Green onions/scallions, 2 bunches - $3.00
+- [x] Fresh cilantro, 3 bunches (extra for gallo pinto) - $6.00
+- [x] Fresh ginger root, 1 piece - $2.00
+- [x] Garlic heads, 2 - $2.00
+- [x] Fresh tilapia fillets, 1.5 lbs - $12.00
+- [x] Medium red onion, 1 - $1.50
+- [x] Yellow onion, 3 medium (for gallo pinto) - $3.00
+- [x] Jalapeño pepper, 1 - $0.50
+- [x] Large sweet potato, 1 - $2.00
+- [x] Fresh mint, 2 bunches - $5.00
+- [x] Large avocados, 3 (for gallo pinto toppings) - $6.00
+- [x] Fresh corn ears, 4 (or 2 cups frozen) - $4.00
+- [x] Large peaches, 6 ripe but firm - $6.00
+- [x] Large plums (mixed varieties), 6 ripe but firm - $6.00
+- [x] Red or green grapes, 2 lbs seedless - $6.00
+- [x] Ripe kiwi fruits, 6 - $4.00
+- [x] Large cucumbers, 4 - $4.00
+- [x] Large tomatoes, 3 - $4.50
+- [x] Cherry tomatoes, 1 pint (for gallo pinto topping) - $3.00
+- [x] Green bell peppers, 2 - $3.00
 - [ ] Red bell pepper, 1 additional - $1.50
 - [ ] Large red onion, 1 additional - $1.50
 - [ ] Fresh Italian parsley, 1 bunch - $2.00
@@ -47,44 +47,44 @@
 - [ ] Fresh tilapia fillets, 1.5 lbs (skin removed) - $12.00
 
 #### Pantry Staples
-- [ ] Rice vinegar, small bottle - $3.00
-- [ ] Avocado oil, small bottle - $4.00
-- [ ] Coconut aminos (or soy sauce), small bottle - $4.00
-- [ ] Sesame oil, small bottle - $4.00
-- [ ] Honey or maple syrup, small container - $3.00
-- [ ] Fresh limes, 12-15 total - $6.00
+- [x] Rice vinegar, small bottle - $3.00
+- [x] Avocado oil, small bottle - $4.00
+- [x] Coconut aminos (or soy sauce), small bottle - $4.00
+- [x] Sesame oil, small bottle - $4.00
+- [x] Honey or maple syrup, small container - $3.00
+- [x] Fresh limes, 12-15 total - $6.00
 - [ ] Fresh lemons, 4 - $2.00
 - [ ] Plantain chips or sweet potato chips - $4.00
 - [ ] Black beans, 6 cans (or 3 lbs dried) - $9.00
-- [ ] White rice, 3 lbs (for 9 cups cooked) - $6.00
+- [x] White rice, 3 lbs (for 9 cups cooked) - $6.00
 - [ ] Rolled oats, 3.5 cups - $4.00
 - [ ] Unsweetened almond milk, 32 oz - $4.00
-- [ ] Coconut milk, 1 can - $2.00
+- [x] Coconut milk, 1 can - $2.00
 - [ ] Chia seeds, 1/4 cup - $3.00
-- [ ] Vanilla extract - $2.00
+- [x] Vanilla extract - $2.00
 - [ ] Rose water (small bottle) - $3.00
 - [ ] Shelled pistachios, 1 cup - $8.00
 - [ ] Dried rose petals (food grade) - $4.00
 - [ ] Coconut flakes - $3.00
 
 #### Spices & Seasonings
-- [ ] Toasted sesame seeds, container - $3.00
-- [ ] Red pepper flakes - $2.00
-- [ ] Salt (check pantry first) - $0.00
-- [ ] Black pepper (check pantry) - $0.00
-- [ ] Ground cumin - $2.00
-- [ ] Smoked paprika - $2.00
-- [ ] Ground cardamom - $3.00
-- [ ] Ground cinnamon - $2.00
+- [x] Toasted sesame seeds, container - $3.00
+- [x] Red pepper flakes - $2.00
+- [x] Salt (check pantry first) - $0.00
+- [x] Black pepper (check pantry) - $0.00
+- [x] Ground cumin - $2.00
+- [x] Smoked paprika - $2.00
+- [x] Ground cardamom - $3.00
+- [x] Ground cinnamon - $2.00
 
 #### Specialty Items
-- [ ] Pomegranate molasses - $5.00
+- [x] Pomegranate molasses - $5.00
 - [ ] Aleppo pepper (or paprika + cayenne) - $4.00
-- [ ] Pomegranate seeds (if in season) - $3.00
-- [ ] Pine nuts, toasted, 2 tbsp - $3.00
-- [ ] Salsa Lizano or Worcestershire sauce - $3.00
+- [x] Pomegranate seeds (if in season) - $3.00
+- [x] Pine nuts, toasted, 2 tbsp - $3.00
+- [x] Salsa Lizano or Worcestershire sauce - $3.00
 - [ ] Pickled jalapeños - $2.00
-- [ ] Hot sauce (optional) - $3.00
+- [x] Hot sauce (optional) - $3.00
 
 ## Recipe Breakdown
 
