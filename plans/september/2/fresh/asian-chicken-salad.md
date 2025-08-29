@@ -23,6 +23,7 @@
 - 4 green onions, sliced diagonally
 - 1/2 cup fresh cilantro leaves
 - 1/4 cup toasted sesame seeds
+- 1 can (11 oz) mandarin oranges, drained, or 2 fresh mandarins, segmented
 
 ### For the Sesame Dressing:
 - 1/4 cup rice vinegar
@@ -62,8 +63,9 @@
 ### Assembly:
 1. In a large serving bowl, combine sliced cabbage, carrots, bell pepper, and snow peas.
 2. Add shredded chicken and half the dressing, toss gently.
-3. Garnish with green onions, cilantro, and toasted sesame seeds.
-4. Serve remaining dressing on the side.
+3. Gently fold in mandarin oranges, being careful not to break them up.
+4. Garnish with green onions, cilantro, and toasted sesame seeds.
+5. Serve remaining dressing on the side.
 
 ## Storage Instructions
 
