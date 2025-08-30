@@ -9,86 +9,86 @@
 ### By Store Section
 
 #### Produce
-- [ ] Large yellow onions, 4 - $4.00
-- [ ] Large white onions, 2 - $2.00
-- [ ] Pearl onions (small shallots), 2 lbs - $5.00
-- [ ] Large red onion, 1 - $1.50
-- [ ] Garlic heads, 3 - $3.00
-- [ ] Fresh ginger root, 2 large pieces - $4.00
-- [ ] Green onions/scallions, 3 bunches - $4.50
-- [ ] Bell peppers (red, green), 3 total - $4.50
-- [ ] Jalapeño peppers, 2 - $1.00
-- [ ] Roma tomatoes, 2 - $2.00
-- [ ] Large tomatoes, 1 - $1.50
-- [ ] Celery stalks, 4 - $2.00
-- [ ] Large carrots, 3 - $2.00
-- [ ] Sweet potatoes, 4 lbs (6-8 medium) - $6.00
-- [ ] Baby bok choy, 4 lbs (16-20 heads) - $10.00
-- [ ] English cucumbers, 2 large - $4.00
-- [ ] Fresh parsley, 3 bunches - $6.00
-- [ ] Fresh dill, 1 bunch - $2.50
-- [ ] Fresh cilantro, 1 bunch - $2.00
-- [ ] Fresh rosemary, 1 bunch - $2.50
+- [x] Large yellow onions, 4 - $4.00
+- [x] Large white onions, 2 - $2.00
+- [x] Pearl onions (small shallots), 2 lbs - $5.00
+- [x] Large red onion, 1 - $1.50
+- [x] Garlic heads, 3 - $3.00
+- [x] Fresh ginger root, 2 large pieces - $4.00
+- [x] Green onions/scallions, 3 bunches - $4.50
+- [x] Bell peppers (red, green), 3 total - $4.50
+- [x] Jalapeño peppers, 2 - $1.00
+- [x] Roma tomatoes, 2 - $2.00
+- [x] Large tomatoes, 1 - $1.50
+- [x] Celery stalks, 4 - $2.00
+- [x] Large carrots, 3 - $2.00
+- [x] Sweet potatoes, 4 lbs (6-8 medium) - $6.00
+- [x] Baby bok choy, 4 lbs (16-20 heads) - $10.00
+- [x] English cucumbers, 2 large - $4.00
+- [x] Fresh parsley, 3 bunches - $6.00
+- [x] Fresh dill, 1 bunch - $2.50
+- [x] Fresh cilantro, 1 bunch - $2.00
+- [x] Fresh rosemary, 1 bunch - $2.50
 - [ ] Fresh thyme, 1 bunch - $2.50
 - [ ] Fresh sage, 1 bunch - $2.50
-- [ ] Large pineapples, 2 - $8.00
-- [ ] Ripe mangoes, 3 (Tommy Atkins or Ataulfo) - $4.00
-- [ ] Large ripe papayas, 2 - $6.00
-- [ ] Fresh strawberries, 1 cup - $3.00
-- [ ] Kiwis, 2 - $2.00
-- [ ] Fresh grapes, 1 cup - $2.00
-- [ ] Fresh mint leaves, 2 bunches - $5.00
-- [ ] Limes, 8 total - $4.00
+- [x] Large pineapples, 2 - $8.00
+- [x] Ripe mangoes, 3 (Tommy Atkins or Ataulfo) - $4.00
+- [x] Large ripe papayas, 2 - $6.00
+- [x] Fresh strawberries, 1 cup - $3.00
+- [x] Kiwis, 2 - $2.00
+- [x] Fresh grapes, 1 cup - $2.00
+- [x] Fresh mint leaves, 2 bunches - $5.00
+- [x] Limes, 8 total - $4.00
 
 #### Meat & Seafood
-- [ ] Bone-in chicken thighs, 3 lbs - $9.00
-- [ ] Pork belly (skin removed), 4 lbs - $20.00
-- [ ] Chuck roast, 4 lbs - $24.00
+- [x] Bone-in chicken thighs, 3 lbs - $9.00
+- [x] Pork belly (skin removed), 4 lbs - $20.00
+- [x] Chuck roast, 4 lbs - $24.00
 
 #### Pantry Staples
-- [ ] Dried black beans, 2 cups - $3.00
+- [x] Dried black beans, 2 cups - $3.00
 - [ ] Dried giant lima beans (gigantes), 2 lbs - $5.00
-- [ ] Jasmine rice, 3 cups - $4.00
-- [ ] Full-fat coconut milk, 2 cans (14 oz each) - $4.00
-- [ ] Whole San Marzano tomatoes, 2 cans (28 oz each) - $8.00
-- [ ] Tomato paste, 1 can (6 oz) - $1.50
+- [x] Jasmine rice, 3 cups - $4.00
+- [x] Full-fat coconut milk, 2 cans (14 oz each) - $4.00
+- [x] Whole San Marzano tomatoes, 2 cans (28 oz each) - $8.00
+- [x] Tomato paste, 1 can (6 oz) - $1.50
 - [ ] Vegetable broth, 64 oz carton x2 - $6.00
 - [ ] Chicken broth, 64 oz carton x2 - $6.00
 - [ ] Beef broth, 32 oz carton - $3.00
-- [ ] Dry red wine (or additional broth), small bottle - $8.00
-- [ ] Dark soy sauce, small bottle - $3.00
-- [ ] Light soy sauce, 16 oz bottle - $4.00
+- [x] Dry red wine (or additional broth), small bottle - $8.00
+- [x] Dark soy sauce, small bottle - $3.00
+- [x] Light soy sauce, 16 oz bottle - $4.00
 - [ ] Shaoxing wine (or dry sherry), small bottle - $6.00
-- [ ] Rock sugar (or brown sugar), 1 lb - $3.00
+- [x] Rock sugar (or brown sugar), 1 lb - $3.00
 - [ ] Fermented black beans, small package - $3.00
 - [ ] Oyster sauce (dairy-free brand), small bottle - $3.00
-- [ ] Red wine vinegar, small bottle - $3.00
-- [ ] Olive oil, 16 oz bottle - $8.00
-- [ ] Vegetable oil, 32 oz bottle - $4.00
+- [x] Red wine vinegar, small bottle - $3.00
+- [x] Olive oil, 16 oz bottle - $8.00
+- [x] Vegetable oil, 32 oz bottle - $4.00
 - [ ] Sesame oil, 8 oz bottle - $5.00
 
 #### Spices & Seasonings
-- [ ] Bay leaves - $2.00
+- [x] Bay leaves - $2.00
 - [ ] Star anise pods, 3 - $3.00
-- [ ] Cinnamon stick, 1 - $1.00
+- [x] Cinnamon stick, 1 - $1.00
 - [ ] Whole allspice berries, 1/2 tsp - $2.00
 - [ ] Sichuan peppercorns (optional), small package - $3.00
-- [ ] Dried oregano - $2.00
-- [ ] Ground cumin - $2.00
-- [ ] Smoked paprika - $2.00
-- [ ] White pepper, small container - $3.00
-- [ ] Red pepper flakes - $2.00
-- [ ] Cornstarch, 1 lb box - $2.00
-- [ ] Sea salt, 3 lb box - $3.00
-- [ ] Black pepper, large container - $4.00
-- [ ] Brown sugar, 1 lb box - $2.00
-- [ ] Toasted sesame seeds, container - $3.00
-- [ ] Toasted coconut flakes, small package - $3.00
+- [x] Dried oregano - $2.00
+- [x] Ground cumin - $2.00
+- [x] Smoked paprika - $2.00
+- [x] White pepper, small container - $3.00
+- [x] Red pepper flakes - $2.00
+- [x] Cornstarch, 1 lb box - $2.00
+- [x] Sea salt, 3 lb box - $3.00
+- [x] Black pepper, large container - $4.00
+- [x] Brown sugar, 1 lb box - $2.00
+- [x] Toasted sesame seeds, container - $3.00
+- [x] Toasted coconut flakes, small package - $3.00
 
 #### Specialty Items
 - [ ] Dried wakame seaweed, small package - $4.00
 - [ ] Mirin (sweet rice wine), small bottle - $4.00
-- [ ] Rice vinegar, small bottle - $3.00
+- [x] Rice vinegar, small bottle - $3.00
 
 ## Recipe Breakdown
 
