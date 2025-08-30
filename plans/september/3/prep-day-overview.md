@@ -11,12 +11,11 @@ This prep day focuses on hearty, warming dishes perfect for late September weath
 - 4 lbs pork belly, skin removed (for red-cooked pork)
 - 3 lbs bone-in chicken thighs, skin removed (for Brazilian stew)
 - 2 cups dried black beans (soak overnight)
-- 2 lbs dried giant lima beans/gigantes (soak overnight)
+- 1.5 lbs orzo pasta
 
 ### Vegetables & Aromatics
 - 2 lbs pearl onions (or small shallots)
 - 3 large yellow onions
-- 4 celery stalks
 - 2 large carrots
 - 2 bell peppers (1 red, 1 green)
 - 2 Roma tomatoes
@@ -58,6 +57,15 @@ This prep day focuses on hearty, warming dishes perfect for late September weath
 - Dried oregano
 - Fresh parsley (1 cup)
 - Fresh dill (1/4 cup)
+- Fresh basil (1/4 cup)
+- Fresh mint (1/4 cup)
+- 1 cup Kalamata olives
+- 8 oz feta cheese
+- 3 lemons
+- 1 pint cherry tomatoes
+- 1 English cucumber
+- Dijon mustard
+- Honey
 
 ### Latin American Ingredients
 - 5 limes
@@ -98,9 +106,8 @@ This prep day focuses on hearty, warming dishes perfect for late September weath
 
 ## Prep Order & Timing
 
-### Night Before (15 minutes)
+### Night Before (5 minutes)
 - Soak black beans in large bowl with water to cover by 2 inches
-- Soak gigantes (giant lima beans) in separate large bowl with water to cover by 2 inches
 
 ### Morning Prep (8:00 AM - 9:30 AM) - 90 minutes
 
@@ -112,7 +119,7 @@ This prep day focuses on hearty, warming dishes perfect for late September weath
 2. **Prep all vegetables:**
    - Peel and blanch pearl onions (2 lbs)
    - Dice onions (3 large)
-   - Dice celery and carrots for gigantes
+   - Dice cucumber and bell peppers for orzo salad
    - Dice bell peppers and tomatoes for Brazilian stew
    - Mince all garlic (12 cloves total)
    - Slice ginger for Chinese pork
@@ -125,10 +132,10 @@ This prep day focuses on hearty, warming dishes perfect for late September weath
    - Season all proteins with salt and pepper
 
 #### Start Long-Cooking Items (60 minutes)
-1. **Begin Gigantes Plaki (20 minutes active):**
-   - Par-cook lima beans (30 minutes)
-   - While beans cook, build tomato base
-   - Combine and get into oven (45 minutes baking)
+1. **Prepare Greek Orzo Salad (30 minutes active):**
+   - Cook orzo pasta (10 minutes)
+   - While pasta cooks, prep vegetables and make dressing
+   - Combine and refrigerate (chills while other items cook)
 
 2. **Start Brazilian Chicken Stew (20 minutes active):**
    - Cook black beans (45 minutes)
@@ -217,7 +224,7 @@ This prep day focuses on hearty, warming dishes perfect for late September weath
 - Brazilian Chicken & Black Bean Stew: $18-22 ($1.50-1.85 per serving)
 
 ### Sides
-- Gigantes Plaki: $8-10 ($0.65-0.85 per serving)
+- Greek Orzo Salad: $10-12 ($0.85-1.00 per serving)
 - Sesame Ginger Bok Choy: $10-12 ($0.85-1.00 per serving)
 
 ### Carbs

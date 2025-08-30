@@ -2,7 +2,7 @@
 
 **Prep Date:** Sunday, September 14th
 **Total Recipes:** 6 fresh dishes (Light prep day including breakfast prep with freezer batch)
-**Estimated Budget:** $135
+**Estimated Budget:** $121.50
 
 ## Shopping Summary
 
@@ -11,17 +11,17 @@
 #### Produce
 - [x] Napa cabbage, 1 large head (2 lbs) - $4.00
 - [x] Large carrots, 4 - $3.00
-- [x] Red bell pepper, 4 (1 for salad, 3 for gallo pinto) - $8.00
+- [x] Red bell pepper, 5 total (1 salad, 3 gallo pinto, 1 Turkish salad) - $10.00
 - [x] Snow peas, 1 cup - $3.00
 - [x] Green onions/scallions, 2 bunches - $3.00
 - [x] Fresh cilantro, 3 bunches (extra for gallo pinto) - $6.00
 - [x] Fresh ginger root, 1 piece - $2.00
 - [x] Garlic heads, 2 - $2.00
-- [x] Medium red onion, 1 - $1.50
+- [x] Red onions, 2 total (1 medium for ceviche, 1 large for Turkish salad) - $3.00
 - [x] Yellow onion, 3 medium (for gallo pinto) - $3.00
 - [x] Jalapeño pepper, 1 - $0.50
 - [x] Large sweet potato, 1 - $2.00
-- [x] Fresh mint, 2 bunches - $5.00
+- [x] Fresh mint, 3 bunches total (for salads and fruit prep) - $7.50
 - [x] Large avocados, 3 (for gallo pinto toppings) - $6.00
 - [x] Fresh corn ears, 4 (or 2 cups frozen) - $4.00
 - [x] Large peaches, 6 ripe but firm - $6.00
@@ -32,17 +32,12 @@
 - [x] Large tomatoes, 3 - $4.50
 - [x] Cherry tomatoes, 1 pint (for gallo pinto topping) - $3.00
 - [x] Green bell peppers, 2 - $3.00
-- [ ] Red bell pepper, 1 additional - $1.50
-- [ ] Large red onion, 1 additional - $1.50
-- [ ] Fresh Italian parsley, 1 bunch - $2.00
-- [ ] Fresh mint leaves, 1 bunch - $2.50
-- [ ] Fresh dill, 1 bunch - $2.50
-- [ ] Limes, 2-3 extra (for gallo pinto) - $1.50
-- [ ] Fresh berries (raspberries or strawberries), 2 cups - $6.00
-- [ ] Pomegranate, 1 (for seeds) - $3.00
+- [x] Fresh Italian parsley, 1 bunch - $2.00
+- [x] Fresh dill, 1 bunch - $2.50
+- [x] Fresh berries (raspberries or strawberries), 2 cups - $6.00
 
 #### Meat & Seafood
-- [ ] Boneless, skinless chicken breasts, 2 lbs - $12.00
+- [x] Boneless, skinless chicken breasts, 2 lbs - $12.00
 - [x] Fresh tilapia fillets, 1.5 lbs (skin removed) - $12.00
 
 #### Pantry Staples
@@ -51,20 +46,20 @@
 - [x] Coconut aminos (or soy sauce), small bottle - $4.00
 - [x] Sesame oil, small bottle - $4.00
 - [x] Honey or maple syrup, small container - $3.00
-- [x] Fresh limes, 12-15 total - $6.00
-- [ ] Fresh lemons, 4 - $2.00
-- [ ] Plantain chips or sweet potato chips - $4.00
-- [ ] Black beans, 6 cans (or 3 lbs dried) - $9.00
+- [x] Fresh limes, 15-17 total (for all recipes) - $7.00
+- [x] Fresh lemons, 4 - $2.00
+- [x] Plantain chips or sweet potato chips - $4.00
+- [x] Black beans, 6 cans (or 3 lbs dried) - $9.00
 - [x] White rice, 3 lbs (for 9 cups cooked) - $6.00
-- [ ] Rolled oats, 3.5 cups - $4.00
-- [ ] Unsweetened almond milk, 32 oz - $4.00
+- [x] Rolled oats, 3.5 cups - $4.00
+- [x] Unsweetened almond milk, 32 oz - $4.00
 - [x] Coconut milk, 1 can - $2.00
-- [ ] Chia seeds, 1/4 cup - $3.00
+- [x] Chia seeds, 1/4 cup - $3.00
 - [x] Vanilla extract - $2.00
-- [ ] Rose water (small bottle) - $3.00
-- [ ] Shelled pistachios, 1 cup - $8.00
-- [ ] Dried rose petals (food grade) - $4.00
-- [ ] Coconut flakes - $3.00
+- [x] Rose water (small bottle) - $3.00
+- [x] Shelled pistachios, 1 cup - $8.00
+- [x] Dried rose petals (food grade) - $4.00
+- [x] Coconut flakes - $3.00
 
 #### Spices & Seasonings
 - [x] Toasted sesame seeds, container - $3.00
@@ -144,14 +139,14 @@
 
 | Category | Estimated Cost |
 |----------|---------------|
-| Produce | $79 |
+| Produce | $77.50 |
 | Proteins | $24 |
-| Pantry | $65 |
+| Pantry | $66 |
 | Spices | $14 |
-| Specialty | $22 |
-| **Total** | **$123** |
+| Specialty | $19 |
+| **Total** | **$121.50** |
 
-**Monthly Running Total:** $368 / $900 target
+**Monthly Running Total:** $366.50 / $900 target
 
 ## Prep Day Overview
 This is a **Light Prep Day** focusing on fresh preparations including breakfast items. 

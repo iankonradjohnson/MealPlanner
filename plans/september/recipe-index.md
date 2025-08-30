@@ -47,7 +47,7 @@ This index provides quick access to all recipes created for the September meal p
 - [Brazilian Chicken and Black Bean Stew](3/proteins/brazilian-chicken-black-bean-stew.md) - Latin American, 12 servings
 
 ### Sides
-- [Gigantes Plaki](3/sides/gigantes-plaki.md) - Mediterranean, 12 servings
+- [Greek Orzo Salad](3/sides/greek-orzo-salad.md) - Mediterranean, 12 servings
 - [Sesame Ginger Bok Choy](3/sides/sesame-ginger-bok-choy.md) - East Asian, 12 servings
 
 ### Carbs
@@ -83,7 +83,7 @@ This index provides quick access to all recipes created for the September meal p
 
 **Sides & Salads:**
 - Roasted Mediterranean Vegetables (Week 1)
-- Gigantes Plaki (Week 3)
+- Greek Orzo Salad (Week 3)
 - Greek Village Salad (Week 1)
 - Turkish Shepherd's Salad (Week 2)
 - Italian Antipasto Salad (Week 4)
@@ -134,7 +134,7 @@ This index provides quick access to all recipes created for the September meal p
 
 ### Mediterranean Combos
 1. Greek Lemon Chicken + Roasted Mediterranean Vegetables + Herbed Quinoa Pilaf
-2. Greek Beef Stifado + Gigantes Plaki + Roasted Sweet Potatoes
+2. Greek Beef Stifado + Greek Orzo Salad + Roasted Sweet Potatoes
 
 ### East Asian Combos
 1. Korean Dakjjim + Kimchi Fried Cauliflower Rice + Sesame Ginger Bok Choy

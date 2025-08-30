@@ -55,7 +55,7 @@
 - Brazilian Chicken and Black Bean Stew (Latin American) - Chicken thighs with black beans **[$18-22]**
 
 **Sides (12 servings each):**
-- Gigantes Plaki (Mediterranean) - Giant beans in tomato sauce **[$8-10]**
+- Greek Orzo Salad (Mediterranean) - Orzo pasta salad with vegetables and feta **[$10-12]**
 - Sesame Ginger Bok Choy (East Asian) - Blanched bok choy with sesame oil **[$10-12]**
 
 **Carbs (12 servings each):**
@@ -84,7 +84,7 @@
 
 **Mediterranean Combinations:**
 - Greek Lemon Chicken + Roasted Mediterranean Vegetables + Herbed Quinoa Pilaf
-- Greek Beef Stifado + Gigantes Plaki + Roasted Sweet Potatoes
+- Greek Beef Stifado + Greek Orzo Salad + Roasted Sweet Potatoes
 
 **East Asian Combinations:**
 - Korean Dakjjim + Kimchi Fried Cauliflower Rice + Sesame Ginger Bok Choy

@@ -2,7 +2,7 @@
 
 **Prep Date:** Sunday, September 15th
 **Total Recipes:** 9 dishes (7 frozen + 2 fresh)
-**Estimated Budget:** $285
+**Estimated Budget:** $287
 
 ## Shopping Summary
 
@@ -16,17 +16,19 @@
 - [x] Garlic heads, 3 - $3.00
 - [x] Fresh ginger root, 2 large pieces - $4.00
 - [x] Green onions/scallions, 3 bunches - $4.50
-- [x] Bell peppers (red, green), 3 total - $4.50
+- [ ] Bell peppers (red, yellow), 2 total - $3.00
+- [ ] Bell pepper (red), 1 - $1.50
 - [x] Jalapeño peppers, 2 - $1.00
 - [x] Roma tomatoes, 2 - $2.00
 - [x] Large tomatoes, 1 - $1.50
-- [x] Celery stalks, 4 - $2.00
+- [ ] Cherry tomatoes, 1 pint - $3.00
 - [x] Large carrots, 3 - $2.00
 - [x] Sweet potatoes, 4 lbs (6-8 medium) - $6.00
 - [x] Baby bok choy, 4 lbs (16-20 heads) - $10.00
 - [x] English cucumbers, 2 large - $4.00
 - [x] Fresh parsley, 3 bunches - $6.00
 - [x] Fresh dill, 1 bunch - $2.50
+- [ ] Fresh basil, 1 bunch - $2.50
 - [x] Fresh cilantro, 1 bunch - $2.00
 - [x] Fresh rosemary, 1 bunch - $2.50
 - [ ] Fresh thyme, 1 bunch - $2.50
@@ -47,12 +49,12 @@
 
 #### Pantry Staples
 - [x] Dried black beans, 2 cups - $3.00
-- [ ] Dried giant lima beans (gigantes), 2 lbs - $5.00
+- [ ] Orzo pasta, 1.5 lbs - $3.00
 - [x] Jasmine rice, 3 cups - $4.00
 - [x] Full-fat coconut milk, 2 cans (14 oz each) - $4.00
 - [x] Whole San Marzano tomatoes, 2 cans (28 oz each) - $8.00
 - [x] Tomato paste, 1 can (6 oz) - $1.50
-- [ ] Vegetable broth, 64 oz carton x2 - $6.00
+- [ ] Vegetable broth, 64 oz carton - $3.00
 - [ ] Chicken broth, 64 oz carton x2 - $6.00
 - [ ] Beef broth, 32 oz carton - $3.00
 - [x] Dry red wine (or additional broth), small bottle - $8.00
@@ -63,6 +65,11 @@
 - [ ] Fermented black beans, small package - $3.00
 - [ ] Oyster sauce (dairy-free brand), small bottle - $3.00
 - [x] Red wine vinegar, small bottle - $3.00
+- [ ] Kalamata olives, 1 cup - $4.00
+- [ ] Feta cheese, 8 oz - $5.00
+- [ ] Dijon mustard, small jar - $3.00
+- [ ] Honey, small jar - $4.00
+- [ ] Lemons, 3 - $2.00
 - [x] Olive oil, 16 oz bottle - $8.00
 - [x] Vegetable oil, 32 oz bottle - $4.00
 - [ ] Sesame oil, 8 oz bottle - $5.00
@@ -114,9 +121,10 @@
 - Sweet potatoes (4 lbs), olive oil, rosemary, thyme, sage, garlic
 - Smoked paprika, cumin, cayenne, brown sugar, parsley
 
-**Gigantes Plaki:**
-- Giant lima beans (2 lbs), San Marzano tomatoes (28 oz), yellow onion, celery, carrots
-- Vegetable broth, olive oil, garlic, parsley, dill, bay leaves, oregano, thyme, tomato paste
+**Greek Orzo Salad:**
+- Orzo pasta (1.5 lbs), cherry tomatoes, English cucumber, bell peppers (red, yellow), red onion
+- Kalamata olives, feta cheese, olive oil, lemon juice, red wine vinegar, garlic, oregano
+- Fresh parsley, basil, dill, mint, Dijon mustard, honey
 
 **Sesame Ginger Bok Choy:**
 - Baby bok choy (4 lbs), vegetable oil, sesame oil, ginger, garlic, green onions
@@ -159,14 +167,14 @@
 
 | Category | Estimated Cost |
 |----------|---------------|
-| Produce | $95 |
+| Produce | $100 |
 | Proteins | $53 |
-| Pantry | $85 |
+| Pantry | $88 |
 | Spices | $35 |
 | Specialty | $11 |
-| **Total** | **$285** |
+| **Total** | **$287** |
 
-**Monthly Running Total:** $615 / $900 target
+**Monthly Running Total:** $617 / $900 target
 
 ## Prep Day Overview
 This is a **Heavy Prep Day** with 7 frozen dishes requiring 8-10 hours of cooking time. Start dried beans soaking the night before. Begin with longest-cooking items (beef stifado, Brazilian stew) in the morning, then pork belly. Rice and vegetables can cook while proteins braise.
@@ -178,7 +186,8 @@ This is a **Heavy Prep Day** with 7 frozen dishes requiring 8-10 hours of cookin
 - Label all frozen containers with contents and date
 
 ## Special Considerations
-- Soak giant lima beans and black beans overnight before prep day
+- Soak black beans overnight before prep day
 - Dried wakame needs rehydration time
 - Some specialty Asian ingredients may require trips to Asian grocery stores
 - Fresh tropical fruits should be ripe but firm for best cutting results
+- Greek Orzo Salad can be prepped ahead and portioned for freezing (without feta)
