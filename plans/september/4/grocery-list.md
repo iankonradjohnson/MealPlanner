@@ -9,80 +9,80 @@
 ### By Store Section
 
 #### Produce
-- [ ] Large broccoli head, 1 - $3.00
-- [ ] Medium carrots, 3 - $2.00
-- [ ] Red bell pepper, 1 - $2.00
-- [ ] Snap peas, 1 cup - $3.00
-- [ ] Green onions/scallions, 3 bunches - $4.50
-- [ ] Fresh ginger root, 1 piece - $2.00
-- [ ] Garlic heads, 2 - $2.00
-- [ ] Fresh strawberries, 1/2 cup - $2.00
-- [ ] Fresh blueberries, 1/2 cup - $3.00
-- [ ] Large orange (naval or Valencia), 1 - $1.50
-- [ ] Clementines or mandarin oranges, 3 - $2.00
-- [ ] Medium apples (Honeycrisp, Gala, Granny Smith), 3 - $3.00
-- [ ] Lemons, 4 - $2.00
-- [ ] Mixed greens (arugula, radicchio, romaine), 4 cups - $6.00
-- [ ] Marinated artichoke hearts, 1 cup - $4.00
-- [ ] Roasted red peppers (jarred), 1 cup - $3.00
-- [ ] Kalamata olives, 1/2 cup - $3.00
-- [ ] Green olives (Castelvetrano preferred), 1/2 cup - $4.00
-- [ ] Sun-dried tomatoes in oil, 1/4 cup - $3.00
-- [ ] Small red onion, 1 - $1.00
-- [ ] Capers, 2 tbsp - $2.00
-- [ ] Pine nuts, 1/4 cup - $5.00
-- [ ] Fresh basil leaves, 1 bunch - $2.50
-- [ ] White onion, 1 medium - $1.00
-- [ ] Medium tomatoes, 3 - $4.50
-- [ ] Fresh cilantro, 1 bunch - $2.00
-- [ ] Large avocado, 1 - $2.00
-- [ ] Medium eggplant, 1 - $3.00
-- [ ] Medium zucchini, 2 - $3.00
-- [ ] Yellow bell pepper, 1 - $2.00
-- [ ] Fresh basil, 1 bunch - $2.50
-- [ ] Fresh mint, 1 bunch - $2.00
+- [x] Large broccoli head, 1 - $3.00
+- [x] Medium carrots, 3 - $2.00
+- [x] Red bell pepper, 1 - $2.00
+- [x] Snap peas, 1 cup - $3.00
+- [x] Green onions/scallions, 3 bunches - $4.50
+- [x] Fresh ginger root, 1 piece - $2.00
+- [x] Garlic heads, 2 - $2.00
+- [x] Fresh strawberries, 1/2 cup - $2.00
+- [x] Fresh blueberries, 1/2 cup - $3.00
+- [x] Large orange (naval or Valencia), 1 - $1.50
+- [x] Clementines or mandarin oranges, 3 - $2.00
+- [x] Medium apples (Honeycrisp, Gala, Granny Smith), 3 - $3.00
+- [x] Lemons, 4 - $2.00
+- [x] Mixed greens (arugula, radicchio, romaine), 4 cups - $6.00
+- [x] Marinated artichoke hearts, 1 cup - $4.00
+- [x] Roasted red peppers (jarred), 1 cup - $3.00
+- [x] Kalamata olives, 1/2 cup - $3.00
+- [x] Green olives (Castelvetrano preferred), 1/2 cup - $4.00
+- [x] Sun-dried tomatoes in oil, 1/4 cup - $3.00
+- [x] Small red onion, 1 - $1.00
+- [x] Capers, 2 tbsp - $2.00
+- [x] Pine nuts, 1/4 cup - $5.00
+- [x] Fresh basil leaves, 1 bunch - $2.50
+- [x] White onion, 1 medium - $1.00
+- [x] Medium tomatoes, 3 - $4.50
+- [x] Fresh cilantro, 1 bunch - $2.00
+- [x] Large avocado, 1 - $2.00
+- [x] Medium eggplant, 1 - $3.00
+- [x] Medium zucchini, 2 - $3.00
+- [x] Yellow bell pepper, 1 - $2.00
+- [x] Fresh basil, 1 bunch - $2.50
+- [x] Fresh mint, 1 bunch - $2.00
 
 #### Meat & Seafood
-- [ ] Boneless, skinless chicken thighs, 2 lbs - $8.00
-- [ ] Large shrimp (31-40 count), 1.5 lbs peeled/deveined - $15.00
+- [x] Boneless, skinless chicken thighs, 2 lbs - $8.00
+- [x] Large shrimp (31-40 count), 1.5 lbs peeled/deveined - $15.00
 
 #### Pantry Staples
 - [ ] Vegetable oil, small bottle - $3.00
-- [ ] Soy sauce, small bottle - $3.00
-- [ ] Mirin (Japanese sweet rice wine), small bottle - $4.00
+- [x] Soy sauce, small bottle - $3.00
+- [x] Mirin (Japanese sweet rice wine), small bottle - $4.00
 - [ ] Sake (optional), small bottle - $8.00
-- [ ] Brown sugar, small box - $2.00
-- [ ] Cornstarch, small box - $2.00
-- [ ] Extra virgin olive oil, 16 oz bottle - $8.00
-- [ ] Red wine vinegar, small bottle - $3.00
-- [ ] Fresh lemon juice (from lemons above) - included
-- [ ] Dijon mustard, small jar - $3.00
+- [x] Brown sugar, small box - $2.00
+- [x] Cornstarch, small box - $2.00
+- [x] Extra virgin olive oil, 16 oz bottle - $8.00
+- [x] Red wine vinegar, small bottle - $3.00
+- [x] Fresh lemon juice (from lemons above) - included
+- [x] Dijon mustard, small jar - $3.00
 - [ ] Tomato juice, 1 cup - $2.00
-- [ ] Ketchup, small bottle - $2.00
-- [ ] Fresh lime juice, 8-10 limes - $4.00
-- [ ] Orange juice, 2 tbsp - $1.00
+- [x] Ketchup, small bottle - $2.00
+- [x] Fresh lime juice, 8-10 limes - $4.00
+- [x] Orange juice, 2 tbsp - $1.00
 - [ ] Hot sauce (Valentina or Tapatio), small bottle - $2.00
-- [ ] Worcestershire sauce, small bottle - $3.00
+- [x] Worcestershire sauce, small bottle - $3.00
 - [ ] Mexican crackers (Saladitas) or saltines - $2.00
 
 #### Spices & Seasonings
-- [ ] Sesame seeds, container - $3.00
-- [ ] Dried oregano - $2.00
+- [x] Sesame seeds, container - $3.00
+- [x] Dried oregano - $2.00
 - [ ] Dried basil - $2.00
-- [ ] Red pepper flakes - $2.00
-- [ ] Ground cumin, small container - $2.00
-- [ ] Ground cinnamon - $2.00
-- [ ] Smoked paprika - $3.00
-- [ ] Salt (check pantry) - $0.00
-- [ ] Black pepper (check pantry) - $0.00
+- [x] Red pepper flakes - $2.00
+- [x] Ground cumin, small container - $2.00
+- [x] Ground cinnamon - $2.00
+- [x] Smoked paprika - $3.00
+- [x] Salt (check pantry) - $0.00
+- [x] Black pepper (check pantry) - $0.00
 
 #### Specialty Items
 - [ ] Italian tuna in olive oil, 1 can (5 oz) (optional) - $4.00
 - [ ] Prosciutto, 4 oz (optional) - $8.00
-- [ ] Orzo pasta, 1 lb - $3.00
+- [x] Orzo pasta, 1 lb - $3.00
 - [ ] Tahini, small jar - $6.00
-- [ ] Coconut milk (full-fat), 1 can - $3.00
-- [ ] White wine, 1 small bottle (optional) - $8.00
+- [x] Coconut milk (full-fat), 1 can - $3.00
+- [x] White wine, 1 small bottle (optional) - $8.00
 
 ## Recipe Breakdown
 
