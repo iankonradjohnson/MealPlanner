@@ -16,16 +16,11 @@
 - [ ] Green onions/scallions, 3 bunches - $4.50
 - [ ] Fresh ginger root, 1 piece - $2.00
 - [ ] Garlic heads, 2 - $2.00
-- [ ] Fresh strawberries, 1 cup - $3.00
+- [ ] Fresh strawberries, 1/2 cup - $2.00
 - [ ] Fresh blueberries, 1/2 cup - $3.00
-- [ ] Fresh blackberries or raspberries, 1/2 cup - $4.00
-- [ ] Large oranges (naval or Valencia), 2 - $3.00
-- [ ] Large grapefruits (pink or white), 2 - $4.00
-- [ ] Clementines or mandarin oranges, 4 - $3.00
-- [ ] Medium apples (Honeycrisp, Gala, Granny Smith), 4 - $4.00
-- [ ] Red or green grapes, 1 cup - $2.00
-- [ ] Kiwi fruits, 2 - $2.00
-- [ ] Pear, 1 - $1.50
+- [ ] Large orange (naval or Valencia), 1 - $1.50
+- [ ] Clementines or mandarin oranges, 3 - $2.00
+- [ ] Medium apples (Honeycrisp, Gala, Granny Smith), 3 - $3.00
 - [ ] Lemons, 4 - $2.00
 - [ ] Mixed greens (arugula, radicchio, romaine), 4 cups - $6.00
 - [ ] Marinated artichoke hearts, 1 cup - $4.00
@@ -41,13 +36,11 @@
 - [ ] Medium tomatoes, 3 - $4.50
 - [ ] Fresh cilantro, 1 bunch - $2.00
 - [ ] Large avocado, 1 - $2.00
-- [ ] Lima beans (cooked), 2 cups or 1 can (15 oz) - $3.00
-- [ ] Fresh or frozen corn kernels, 1.5 cups (2 ears fresh) - $3.00
-- [ ] Black olives, 1/2 cup - $2.00
-- [ ] Fresh parsley, 2 bunches - $4.00
-- [ ] Fresh oregano, 2 tbsp - $2.50
-- [ ] Jalapeño or aji amarillo pepper, 1 small - $0.50
-- [ ] Hard-boiled eggs, 2 (optional) - $1.00
+- [ ] Medium eggplant, 1 - $3.00
+- [ ] Medium zucchini, 2 - $3.00
+- [ ] Yellow bell pepper, 1 - $2.00
+- [ ] Fresh basil, 1 bunch - $2.50
+- [ ] Fresh mint, 1 bunch - $2.00
 
 #### Meat & Seafood
 - [ ] Boneless, skinless chicken thighs, 2 lbs - $8.00
@@ -78,12 +71,18 @@
 - [ ] Dried basil - $2.00
 - [ ] Red pepper flakes - $2.00
 - [ ] Ground cumin, small container - $2.00
+- [ ] Ground cinnamon - $2.00
+- [ ] Smoked paprika - $3.00
 - [ ] Salt (check pantry) - $0.00
 - [ ] Black pepper (check pantry) - $0.00
 
 #### Specialty Items
 - [ ] Italian tuna in olive oil, 1 can (5 oz) (optional) - $4.00
 - [ ] Prosciutto, 4 oz (optional) - $8.00
+- [ ] Orzo pasta, 1 lb - $3.00
+- [ ] Tahini, small jar - $6.00
+- [ ] Coconut milk (full-fat), 1 can - $3.00
+- [ ] White wine, 1 small bottle (optional) - $8.00
 
 ## Recipe Breakdown
 
@@ -93,9 +92,9 @@
 - Chicken thighs (2 lbs), broccoli head, carrots (2), red bell pepper, snap peas, green onions
 - Soy sauce, mirin, sake, brown sugar, garlic, ginger, cornstarch, vegetable oil, sesame seeds
 
-**Fresh Fruit Prep - Week 4 Fall Selection:**
-- Strawberries, blueberries, blackberries, oranges (2), grapefruits (2), clementines (4)
-- Apples (4), grapes, kiwi fruits (2), pear, lemon juice
+**Fresh Fruit Prep - Week 4 Light Selection:**
+- Strawberries (1/2 cup), blueberries (1/2 cup), orange (1), clementines (3)
+- Apples (3), lemon juice
 
 **Italian Antipasto Salad:**
 - Mixed greens (4 cups), artichoke hearts, roasted red peppers, Kalamata olives, green olives
@@ -107,10 +106,11 @@
 - Large shrimp (1.5 lbs), tomato juice, ketchup, lime juice, orange juice, hot sauce, Worcestershire sauce
 - Cucumber, white onion, tomatoes (2), avocado, cilantro, jalapeño, lime wedges, Mexican crackers
 
-**Peruvian Solterito Salad:**
-- Lima beans (2 cups), corn kernels (1.5 cups), black olives, red onion, tomato (1)
-- Fresh parsley, oregano, lime juice, olive oil, cumin, jalapeño
-- Optional: hard-boiled eggs
+**Mediterranean Orzo Skillet:**
+- Orzo pasta (1 lb), eggplant, zucchini (2), yellow bell pepper, cherry tomatoes
+- Kalamata olives, sun-dried tomatoes, capers, garlic, onion
+- Coconut milk, tahini, white wine, fresh basil, parsley, mint
+- Olive oil, lemon juice, oregano, smoked paprika, cumin, cinnamon
 
 ## Shopping Notes
 
@@ -144,9 +144,9 @@
 | Pantry | $48 |
 | Spices | $6 |
 | Specialty | $12 |
-| **Total** | **$125** |
+| **Total** | **$115** |
 
-**Monthly Running Total:** $740 / $900 target
+**Monthly Running Total:** $730 / $900 target
 
 ## Prep Day Overview
 This is a **Light Prep Day** focusing on fresh preparations. Most dishes can be prepped 1-2 days ahead. Shrimp should be cooked fresh, and some items like avocado should be added just before serving.

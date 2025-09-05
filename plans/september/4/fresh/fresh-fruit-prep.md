@@ -1,10 +1,10 @@
-# Fresh Fruit Prep - Week 4 Fall Selection (Universal)
+# Fresh Fruit Prep - Week 4 Light Selection (Universal)
 
 **Type:** Fresh  
-**Prep Time:** 25 minutes  
+**Prep Time:** 15 minutes  
 **Cook Time:** None  
-**Total Time:** 25 minutes  
-**Yield:** 7-8 servings  
+**Total Time:** 15 minutes  
+**Yield:** 5-6 servings  
 **Storage:** Refrigerator only, consume within 5 days
 
 ## Storage Instructions
@@ -16,24 +16,21 @@
 
 ## Ingredients
 
-### Berries (2 cups total):
-- 1 cup fresh strawberries
+### Berries (1 cup total):
+- 1/2 cup fresh strawberries
 - 1/2 cup fresh blueberries
-- 1/2 cup fresh blackberries or raspberries
 
-### Citrus (2 cups total):
-- 2 large oranges (naval or Valencia)
-- 2 large grapefruits (pink or white)
-- 3-4 clementines or mandarin oranges
+### Citrus (1 cup total):
+- 1 large orange (naval or Valencia)
+- 2-3 clementines or mandarin oranges
 
-### Apples (2 cups):
-- 3-4 medium apples (mix of Honeycrisp, Gala, or Granny Smith)
-- 2 tablespoons fresh lemon juice (to prevent browning)
+### Apples (1.5 cups):
+- 2-3 medium apples (mix of Honeycrisp, Gala, or Granny Smith)
+- 1 tablespoon fresh lemon juice (to prevent browning)
 
-### Optional Additions:
-- 1 cup red or green grapes, washed
-- 2 kiwi fruits, peeled and sliced
-- 1 pear, cored and sliced
+### Note:
+- This week's selection is reduced since you have leftover pineapple and mango from previous weeks
+- Focus on berries and apples that complement tropical fruits
 
 ## Equipment Needed
 - Sharp paring knife
